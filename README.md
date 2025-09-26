@@ -22,7 +22,7 @@
     - For each rectangle in the `Export` layer, it exports the content within that rectangle to a separate file.
 
 ## Usage
-"""
+```
 This script processes an SVG file and exports it to a specified filetype.
 
 Usage:
@@ -39,7 +39,7 @@ Example:
 Notes:
     - Ensure that the input SVG file exists and is accessible.
     - The script will output the exported file in the same directory as the input SVG.
-"""
+```
 
 ## License
 
